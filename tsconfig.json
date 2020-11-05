@@ -13,6 +13,7 @@
     "target": "es2015",
     "typeRoots": [
       "node_modules/@types"
+      ,"./node_modules/jasmine/ts3.1"
     ],
     "lib": [
       "es2018",
